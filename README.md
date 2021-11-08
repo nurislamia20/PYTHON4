@@ -16,6 +16,27 @@
   ![Screenshot (467)](https://user-images.githubusercontent.com/93031458/140675469-3755984c-f56f-4c27-a6ce-0be66dd3c3cb.png)
   f. looping parameter ketiga
   ![Screenshot (468)](https://user-images.githubusercontent.com/93031458/140675580-f6675ee6-8261-493d-92a5-2b9a199cba49.png)
-2. LIST
+  
+2. LIST 
+
 list merupakan sebuah tipe data yang dapat menampung tipe data yang lain
+
 ![Screenshot (469)](https://user-images.githubusercontent.com/93031458/140676049-dd5da972-a0fb-4ad8-b57a-405f70244354.png)
+
+3. LIST METHOD
+
+  a. dibawah ini menggunakan append untuk menambah nilai kedalam list dimana akan diletakkan dibagian paling belakang
+ 
+   ![Screenshot (471)](https://user-images.githubusercontent.com/93031458/140683201-a8110562-6d6d-446a-b263-9ce6d9cad009.png)
+   
+  b.  dibawah ini memasukkan elemen baru ke list dengan sintaks yang kita inginkan
+  
+  ![Screenshot (472)](https://user-images.githubusercontent.com/93031458/140683663-2bc830bf-3229-4585-a580-1221bf655224.png)
+
+4.PENJUMLAHAN LIST
+
+  list untuk mencari nilai penjumlahan dari semua elemen yang ada dalm list
+
+  ![Screenshot (473)](https://user-images.githubusercontent.com/93031458/140684200-45f108f5-e9d1-4c54-9b39-b43ccfdb1eaf.png)
+
+5. MENCARI ANGKA MAXT
